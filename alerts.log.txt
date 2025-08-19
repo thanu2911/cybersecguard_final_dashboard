@@ -1,0 +1,3 @@
+[2025-08-18 14:42:10] ALERT - Attack: Ransomware | Source IP: 203.0.113.99 | Status: Blocked & Neutralized
+[2025-08-18 14:42:12] ALERT - Attack: DDoS Attack | Source IP: 45.67.89.101 | Status: Blocked & Neutralized
+[2025-08-18 14:42:15] ALERT - Attack: Phishing Email | Source IP: 192.06.23.05 | Status: Blocked & Neutralized
